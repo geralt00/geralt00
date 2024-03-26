@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @geralt00
+- 👋 Hi, This is @geralt00
 - 👀 I’m interested in Particle Physics
-- 🌱 I’m currently learning Roofit and machinelearning
-- 💞️ I’m looking to collaborate on ...
-- 📫 Touch me 2386565051@qq.com
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on Machine Learning implementation on Particle Physics
+- 📫 Touch me zsh2386565051@gmail.com
 
 <!---
 geralt00/geralt00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
