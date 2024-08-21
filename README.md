@@ -2,7 +2,7 @@
 - 👀 I’m interested in Particle Physics
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Machine Learning implementation on Particle Physics
-- 📫 Touch me zsh2386565051@gmail.com
+- 📫 Getting Touch me zsh2386565051@gmail.com
 
 <!---
 geralt00/geralt00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
