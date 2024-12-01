@@ -1,8 +1,8 @@
 - 👋 Hi, This is @geralt00
-- 👀 I’m interested in Particle Physics
-- 🌱 I’m currently learning ML
+- 👀 I’m still figure out
+- 🌱 I’m currently student at University of Bristol
 - 💞️ I’m looking to collaborate on Machine Learning implementation on Particle Physics
-- 📫 Getting Touch me zsh2386565051@gmail.com
+- 📫 Getting Touch with me by zsh2386565051@gmail.com
 
 <!---
 geralt00/geralt00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
